@@ -1,0 +1,65 @@
+.header {
+    height: 200px;
+    flex: none;
+    background-color: #C9E6FF;
+    position: fixed;
+    z-index: 100;
+    width: 99.5%;
+    border-radius: 25px;
+    border: 1px solid rgb(22, 18, 236);
+    margin-left: 5px;
+  }
+  .header .logo{
+    font-size: 3.5em;
+    font-family: Calibri;
+    
+  }
+  .header .container{
+    margin-left: 25px;
+    margin-top: 10px;
+    
+  }
+  .time{
+    margin-top: 50px;
+    font-size: 1.5em;
+  }
+  .section{
+    width: 25%;
+    float: left;
+    font-size: 1.25em;
+  }
+  .subsection{
+    margin-top: 30px;
+  }
+  .space{
+    margin: 0px 0px 0px 0px;
+  }
+  .header canvas{
+    height: 175px !important;
+  }  
+.text2 {
+  font-family: Calibri;
+  font-size: 20px;
+  font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+
+.app-class .mat-list-item {
+  width: 75%;
+  height: 1.2em;
+  font-family: Calibri;
+  font-size: 20px;
+  font-style: normal;
+	font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+  border: 1px solid rgb(144, 144, 150);
+  background-color: orange;
+}
+.alert {
+  border-radius: 15px;
+  border: 1px solid rgb(22, 18, 236);
+  margin-right: 50px;
+}
